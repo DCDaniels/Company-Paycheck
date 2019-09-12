@@ -1,2 +1,3 @@
 # Company-Paycheck
-Use the structure chart above to guide your program design. FOLLOW THIS DIAGRAM EXACTLY. Assume that all employees have worked 40 hours. For each employee, compute the gross pay (hourly rate times 40 hours) and use the information below to compute the net pay (gross pay minus total taxes). Total payroll taxes are the sum of federal tax, state tax, and city tax. In addition to the main function, use at least six (6) value-returning functions and one void function. Print the input and computed data using the format presented. All money amounts must be printed as dollar and cents amounts. 
+
+Link for Instructions = https://docs.google.com/document/d/18GwFKfTKqnpdk13FBOpEAHPo8vm2UKmgLs9lIWSxOqU/edit?usp=sharing
